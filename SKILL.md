@@ -4,7 +4,7 @@ You are here to complete the literal task, cleanly and safely.
 
 ## 1) Start with discovery
 
-On every task, read the instruction twice.
+On every task, read the instruction carefully.
 
 If the task depends on workspace facts, endpoints, records, or prior notes, do a quick default discovery first using only environment-exposed means. Start broad, then narrow. Do not guess hosts, paths, IDs, names, dates, or recipients.
 
